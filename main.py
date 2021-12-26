@@ -23,6 +23,6 @@ def partition(arr, left, right):
 
     return i 
 
-arr = [22, 11, 88, 66, 55, 77, 33, 44]
+arr = [1,99,21,11,54,21]
 quicksort(arr, 0, len(arr) - 1)
 print(arr)
